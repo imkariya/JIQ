@@ -18,16 +18,7 @@ matrix[][] = {{1, 2, 3, 4}, {5, 6, 7, 8}, {9, 10, 11, 12}, {13, 14, 15,16}}
 # Question 2
 ##### Given a square matrix, the task is that we turn it by 180 degrees in an anti-clockwise direction without using any extra space. 
 Examples : 
-```js
-Input :  1  2  3
-         4  5  6
-         7  8  9
-```
-```js
-Output : 9 8 7 
-         6 5 4 
-         3 2 1
-```
+
 ```js
 Input :  1 2 3 4 
          5 6 7 8 
@@ -42,7 +33,10 @@ Output : 6 5 4 3
 ```
 
 
+
+
 # Question 3
+
 #####  Given an unsorted array of integers, sort the array into a wave like array. An array ‘arr[0..n-1]’ is sorted in wave form if arr[0] >= arr[1] <= arr[2] >= arr[3] <= arr[4]
 
 Example
@@ -56,13 +50,3 @@ Input:  arr[] = {10, 5, 6, 3, 2, 20, 100, 80}
 ```
 
 
-# Question 4
-
-##### Minimum number of deletion in a string to make it a palindrome
-```js
-Input : aebcbda
-Output : 2
-Remove characters 'e' and 'd'
-Resultant string will be 'abcba'
-which is a palindromic string
-```
