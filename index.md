@@ -101,10 +101,11 @@ matrix[][] = {{1, 2, 3, 4},
 1 2 3 4 8 12 11 10 9 5 6 7
 ```
 `Explanation:`
+```
 Applying same technique as shown above, 
 output for the 2nd test case will be 
 1 2 3 4 8 12 11 10 9 5 6 7.
-
+```
  
 `Your Task:`
 ```
